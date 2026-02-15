@@ -12,7 +12,7 @@ Includes **Roman numerals** at higher levels, countdown timer, lives, sounds, an
   <img src="images/level3.PNG" alt="Level 3" width="500" height="450"/>
   <img src="images/leader-board.PNG" alt="Leader Board" width="500" height="450"/>
   <p></p>
-  <img src="images/for-mobile.PNG" alt="For mobile" width="250" height="450"/>
+  <img src="images/for-mobile.PNG" alt="For mobile" width="500" height="450"/>
 
 </p>
 ---
