@@ -11,9 +11,7 @@ Includes **Roman numerals** at higher levels, countdown timer, lives, sounds, an
   <img src="images/level1.PNG" alt="Level 1" width="500" height="450"/>
   <img src="images/level3.PNG" alt="Level 3" width="500" height="450"/>
   <img src="images/leader-board.PNG" alt="Leader Board" width="500" height="450"/>
-  <p>
-  <img src="images/for-mobile.PNG" alt="For mobile" width="250" height="450"/>
-</p>
+ 
 </p>
 ---
 
