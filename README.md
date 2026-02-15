@@ -5,11 +5,14 @@ Includes **Roman numerals** at higher levels, countdown timer, lives, sounds, an
 
 ---
 
-## 🖼 Screenshot
+## 🎬 Screenshots
 
-![Game Screenshot](./screenshot.png)  
-> Replace `screenshot.png` with an actual screenshot of your game in the repository.
-
+<p align="center">
+  <img src="images/level1.png" alt="Level 1" width="250" height="450"/>
+  <img src="images/level3.PNG" alt="Level 3" width="250" height="450"/>
+  <img src="images/level4.PNG" alt="Level 4" width="250" height="450"/>
+  <img src="images/level6.PNG" alt="Level 6" width="250" height="450"/>
+</p>
 ---
 
 ## 🚀 Play Online
