@@ -8,9 +8,9 @@ Includes **Roman numerals** at higher levels, countdown timer, lives, sounds, an
 ## 🎬 Screenshots
 
 <p align="center">
-  <img src="images/level1.PNG" alt="Level 1" width="1000" height="450"/>
-  <img src="images/level3.PNG" alt="Level 3" width="1000" height="450"/>
-  <img src="images/leader-board.PNG" alt="Leader Board" width="1000" height="450"/>
+  <img src="images/level1.PNG" alt="Level 1" width="500" height="450"/>
+  <img src="images/level3.PNG" alt="Level 3" width="500" height="450"/>
+  <img src="images/leader-board.PNG" alt="Leader Board" width="500" height="450"/>
   <img src="images/for-mobile.PNG" alt="For mobile" width="250" height="450"/>
 
 </p>
@@ -19,8 +19,6 @@ Includes **Roman numerals** at higher levels, countdown timer, lives, sounds, an
 ## 🚀 Play Online
 
 You can play the game live here: [Play Number Ordering Game Online](https://ordering-game.wuaze.com/)  
-
-> Replace the URL with your actual GitHub Pages URL.
 
 ---
 
